@@ -1,3 +1,9 @@
+import { FantasyList } from "@/components/FantasyList";
+
 export default function Home() {
-  return <main>Fantasy Factory</main>;
+  return (
+    <main>
+      <FantasyList />
+    </main>
+  );
 }

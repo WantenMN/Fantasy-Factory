@@ -10,7 +10,6 @@
     "plugin:@typescript-eslint/recommended-requiring-type-checking"
   ],
   "rules": {
-    "quotes": ["warn", "double", { "avoidEscape": true }],
-    "curly": ["error", "all"]
+    "quotes": ["warn", "double", { "avoidEscape": true }]
   }
 }
